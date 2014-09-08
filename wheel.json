@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Front end",
+    "children": [
+      {
+        "name": "Javascript",
+        "children": [
+          {
+            "name": "jQuery",
+            "colour": "#670908"
+          },
+          {
+            "name": "Frameworks",
+            "children": [
+              {
+                "name": "Angular.js",
+                "colour": "#540E0C"
+              },
+              {
+                "name": "Highcharts.js",
+                "colour": "#540E0C"
+              },
+              {
+                "name": "D3.js",
+                "colour": "#540E0C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HTML",
+        "children": [
+          {
+            "name": "General HTML5",
+            "colour": "#3E0807"
+          },
+          {
+            "name": "HTML5 Media",
+            "colour": "#3E0807"
+          },
+          {
+            "name": "HTML5 Canvas",
+            "colour": "#3E0807"
+          }
+        ]
+        },
+      {
+        "name": "CSS",
+        "children": [
+          {
+            "name": "SASS",
+            "colour": "#27060A"
+          },
+          {
+            "name": "Bootstrap",
+            "colour": "#27060A"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tools",
+    "children": [
+    {
+        "name": "Koala",
+        "colour": "#1E16C7"
+      },
+    {
+        "name": "github",
+        "colour": "#1E16C7"
+      },
+      {
+        "name": "terminal",
+        "children": [
+          {
+            "name": "bower",
+            "colour": "#1F2BC6"
+          },
+          {
+            "name": "composer",
+            "colour": "#1F63C8"
+          },
+          {
+            "name": "grunt",
+            "colour": "#1E99C9"
+          },
+          {
+            "name": "npm",
+            "colour": "#1FCCCB"
+          }
+        ]
+      },
+      {
+        "name": "sublime text",
+        "children": [
+          {
+            "name": "emmet",
+            "colour": "#1E99C9"
+          },
+          {
+            "name": "gitgutter",
+            "colour": "#139A98"
+          }
+          ,
+          {
+            "name": "livereload",
+            "colour": "#21FFCE"
+          }
+        ]
+        },
+      {
+        "name": "komodo",
+        "colour": "#0B9A68"
+      },
+      {
+        "name": "Photoshop",
+        "colour": "#0B9A68"
+      },
+      {
+        "name": "VS2013",
+        "colour": "#14CD9B" 
+
+      },
+      {
+        "name": "php MyAdmin",
+        "colour": "#32B398"
+      },
+      {
+        "name": "cPanel",
+        "children": [
+          {
+            "name": "Cron Jobs",
+            "colour": "#02CE43"
+                      
+          },
+          {
+            "name": "server config.",
+            "colour": "#02CE43"
+                      
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Protocols",
+    "children": [
+      {
+        "name": "REST/Json",
+        "children": [
+          {
+            "name": "php",
+            "colour": "#CA0FC6"
+          },
+         {
+            "name": "javascript",
+            "colour": "#CA0FC6"
+          },
+          {
+            "name": "Http requests",
+            "colour": "#FF17FA"
+          }
+        ]
+      },
+      {
+        "name": "SQL",
+        "colour": "#B20CAF"
+       },
+      {
+        "name": "RegEx",
+        "colour": "#B20CAF"
+       }
+    ]
+  },
+  {
+    "name": "Back end",
+    "children": [
+       {
+          "name": "php",
+          "children": [
+            {
+              "name": "Simple-HTML DOM parser",
+              "colour": "#FCCD6A"
+              },
+              {
+              "name": "PHP QR-Code",
+              "colour": "#FCCD4A"
+              },
+              {
+              "name": "Securimage captcha",
+              "colour": "#FCCD4B"
+              }
+              ]
+        },
+       {
+          "name": "SQL",
+          "colour": "#FCCD4A"
+        },
+        {
+          "name": "RDB management",
+          "colour": "#FDF177"
+        }
+    ]
+  }
+  
+]
